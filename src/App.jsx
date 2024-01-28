@@ -1,8 +1,6 @@
-import { Layout } from "./components";
-
 function App() {
   return (
-    <Layout></Layout>
+    <h2>HI</h2>
   );
 }
 
