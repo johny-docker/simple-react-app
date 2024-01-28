@@ -1,6 +1,6 @@
 function App() {
   return (
-    <h2>HI</h2>
+    <div style={{ textAlign:"center" }}><h1>Simple React App!</h1></div>
   );
 }
 
