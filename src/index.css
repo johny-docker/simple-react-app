@@ -1,0 +1,36 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+    margin:0px;
+    background: #000;
+}
+.navbar {
+    overflow: hidden;
+    background-color: #333;
+    position: fixed;
+    top: 0;
+    width: 100%;
+  }
+.logo {
+    float: left;
+    width: 120px;
+    height: 31px;
+    margin: 15px 25px 15px 0;
+    background: red;
+    margin-left: 20px;
+}
+
+.main {
+    padding: 20px;
+    background: rgb(246, 243, 243);
+    margin-top: 50px;
+}
+
+.content {
+    min-height: 600px;
+    padding: 20px;
+    background: #fff;
+    border-radius: 5px;
+}
